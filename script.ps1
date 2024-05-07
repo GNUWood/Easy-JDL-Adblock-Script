@@ -1,4 +1,3 @@
-$OutputEncoding='utf-8'
 Write-Output "--------------------"
 Write-Output "|EASY JDL ADBLOCKER|"
 Write-Output "|  @GNUWood  2024  |"
